@@ -1,0 +1,15 @@
+# Ignore build files
+/build/
+*.class
+*.war
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
